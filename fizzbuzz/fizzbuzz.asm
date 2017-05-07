@@ -1,3 +1,9 @@
+;wrote this start to finish in one sitting
+;certainly needs to be refactored later
+;still learning asm at this point
+;one obvious thing that needs to be changed for optimizations sake is the div instruction
+;code can probably be tightened up quite a bit elseware as well
+
 INCLUDE Irvine32.inc
 
 .data
